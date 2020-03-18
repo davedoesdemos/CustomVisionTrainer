@@ -1,0 +1,13 @@
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.csprojAssemblyReference.cache
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.Form1.resources
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.Properties.Resources.resources
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.csproj.GenerateResource.cache
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.csproj.CoreCompileInputs.cache
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\bin\Debug\ImageTrainer.exe.config
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\bin\Debug\ImageTrainer.exe
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\bin\Debug\ImageTrainer.pdb
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.exe
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.pdb
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dalusty\Documents\repos\CustomVisionTrainer\ImageTrainer\obj\Debug\ImageTrainer.csproj.CopyComplete
